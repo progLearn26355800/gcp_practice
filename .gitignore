@@ -1,0 +1,7 @@
+.vscode/
+clean-*.json
+tmp/
+.terraform/
+.terraform*
+terraform.tfstate.*
+*.tfstate
